@@ -3,6 +3,8 @@
 import os
 import sys
 
+# Adding a comment for conflict
+
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'virtualBar.settings')
